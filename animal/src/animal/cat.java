@@ -10,7 +10,7 @@ public class Cat extends Animal {
         lengthOfWhiskers = 0;
     }
 
-    // Parameterized constructor
+ 
     public Cat(String name, double weight, double height, int lengthOfWhiskers) {
         super(name, weight, height);
         this.lengthOfWhiskers = lengthOfWhiskers;
