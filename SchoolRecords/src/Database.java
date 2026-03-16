@@ -27,7 +27,7 @@ public class Database {
 
             out.println(p.getClass().getSimpleName());
             out.println(p.toString());
-            out.println("-----"); // separator between objects
+            out.println("-----");
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -45,9 +45,9 @@ public class Database {
                 if (line.equals("-----")) {
                    
                     list.add(new Person(sb.toString(), "", "", ""));
-                    sb.setLength(0); // clear buffer
+                    sb.setLength(0); 
                 } else if (type == null) {
-                    type = line; // the class name
+                    type = line; 
                 } else {
                     sb.append(line).append("\n");
                 }

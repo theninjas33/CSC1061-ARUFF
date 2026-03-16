@@ -5,8 +5,8 @@ import java.time.LocalDate;
  */
 public class Faculty extends Employee {
 
-    private String officeHours; // string format like "9am-5pm"
-    private String rank;        // junior, senior
+    private String officeHours; 
+    private String rank;        
 
     public Faculty(String name, String address, String phoneNumber, String email,
                    String office, double salary, LocalDate dateHired,
