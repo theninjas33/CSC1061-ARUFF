@@ -1,0 +1,56 @@
+Student
+Name: Alice
+Address: 123 Main St
+Phone: 555-1111
+Email: alice@email.com
+Status: freshman
+-----
+Student
+Name: Bob
+Address: 456 Oak Ave
+Phone: 555-2222
+Email: bob@email.com
+Status: junior
+-----
+Faculty
+Name: Dr. Smith
+Address: 789 Pine St
+Phone: 555-3333
+Email: smith@email.com
+Office: Room 101
+Salary: 80000.0
+Date Hired: 2020-01-15
+Office Hours: 9am-5pm
+Rank: senior
+-----
+Faculty
+Name: Dr. Jones
+Address: 321 Elm St
+Phone: 555-4444
+Email: jones@email.com
+Office: Room 102
+Salary: 75000.0
+Date Hired: 2021-02-10
+Office Hours: 10am-4pm
+Rank: junior
+-----
+Staff
+Name: Karen
+Address: 987 Maple St
+Phone: 555-5555
+Email: karen@email.com
+Office: Admin Office
+Salary: 50000.0
+Date Hired: 2019-05-20
+Title: Secretary
+-----
+Staff
+Name: Mike
+Address: 654 Cedar St
+Phone: 555-6666
+Email: mike@email.com
+Office: Maintenance
+Salary: 45000.0
+Date Hired: 2018-06-10
+Title: Custodian
+-----
